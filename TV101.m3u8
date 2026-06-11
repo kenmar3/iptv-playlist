@@ -1,0 +1,104 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="",Lifetime Movie Favorites (720p) [Geo-blocked]
+https://pb-137agpk5fqieb.akamaized.net/v1/aenetworks_holidaymoviefavorites_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="",Lifetime Movies Love & Drama (1080p)
+https://d1s7megtamek6r.cloudfront.net/Lifetime_Love_and_Drama.m3u8
+#EXTINF:-1 tvg-id="",Noticias Telemundo Ahora (1080p) [Geo-blocked]
+https://pb-21qh1uz4mmkrs.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-id="",Lifetime Movies Love & Drama (1080p)
+https://d1s7megtamek6r.cloudfront.net/Lifetime_Love_and_Drama.m3u8
+#EXTINF:-1 tvg-id="",Telemundo Al Día (720p)
+https://d1kq7q3vteqjb.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="TelemundoAlDia.us@HD",Telemundo Al Dia
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/10a44c37-f976-4d2b-ab23-8637a7a094ca/3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" tvg-name="KNSO 51.1 (1080p)" group-title="General",TELEMUNDO (1080p)
+http://162.19.255.233:8080/play/UNbAl57p9hXZClOu56FCTRSgqaaeJfnXdNhhKhum39E/m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" tvg-name="KVEA-DT1" group-title="General",KVEA-DT1
+http://104.238.205.28:9090/278661_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" tvg-name="WKAQ-DT1 (Telemundo PR) (1080p)" group-title="General",WKAQ-DT1 (Telemundo PR) (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e3Z2wzG.png" tvg-name="KFTR-DT1 [Geo-blocked]" group-title="Entertainment",KFTR-DT1 [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kTh2jgF.png" tvg-name="KRGV-DT2 [Geo-blocked]" group-title="Entertainment",KRGV-DT2 [Geo-blocked]
+https://d3svnrf3rmq619.cloudfront.net/krgv-live/smil:krgv-somos.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j2O4ndp.png" tvg-name="Telemundo Internacional" group-title="General",Telemundo Internacional
+http://181.114.57.246:4000/play/XmUjm3NXcGJkvvQ8/index.m3u8
+#EXTINF:-1 tvg-id="",Telemundo Accion (1080p)
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="",Telemundo Noticias Ahora (1080p)
+https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="",Telemundo Noticias Florida (1080p)
+https://amg00884-nbcuniversal-nbctelemundoflorida-xumo-atn0m.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="",Telemundo Noticias Noreste (1080p)
+https://amg00884-nbcuniversal-nbctelemundonortheast-xumo-ok3ha.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="",Telemundo Romance (1080p)
+https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" tvg-name="Azteca 7 (720p) [Geo-blocked]" group-title="Mexico · iptv-org",Azteca 7 (720p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" tvg-name="Azteca Internacional (1080p)" group-title="Mexico · iptv-org",Azteca Internacional (1080p)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRxgBtI.png" tvg-name="Azteca Uno (720p) [Geo-blocked]" group-title="Mexico · iptv-org",Azteca Uno (720p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nT3Wxr6.png" tvg-name="Love Television (720p)" group-title="News",Love Television (720p)
+https://streamer2.nexgen.bz/01-LOVE/index.m3u8
+#EXTINF:-1 tvg-id="FlexStudioRadioTV.bz@SD",Flex Studio Radio TV [Not 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/fsradiotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/v0BlxCa.png" tvg-name="ANIME x HIDIVE (720p) [Geo-blocked]" group-title="Animation",ANIME x HIDIVE (720p) [Geo-blocked]
+https://d3f088nnrrvkwf.cloudfront.net/v1/amc_anime_x_hidive_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M8X3Kvc.png" tvg-name="Naruto (1080p)" group-title="Animation",Naruto (1080p)
+https://d21vn5eki5qsdi.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aSjhZK7.png" tvg-name="Toonami Aftermath East (480p)" group-title="Animation",Toonami Aftermath East (480p)
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OIFK6JB.png" tvg-name="Animation+ (1080p) [Geo-blocked]" group-title="Animation",Animation+ (1080p) [Geo-blocked]
+https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-name="Nickelodeon (1080p)" group-title="Kids",Nickelodeon (1080p)
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-name="Nickelodeon (1080p)" group-title="Kids",Nickelodeon (1080p)
+https://xykt-fix.github.io/iptv/streams/SP57.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TOB9vmW.png" tvg-name="America’s Funniest Home Videos (1080p)" group-title="Comedy",America’s Funniest Home Videos (1080p)
+https://d1mp1kdk5zi1ie.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HjVEVMJ.png" tvg-name="Just for Laughs Gags (1080p)" group-title="Comedy",Just for Laughs Gags (1080p)
+https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-name="Comedy Central (1080p)" group-title="Comedy",Comedy Central (1080p)
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.us@East",Showtime (1080p)
+http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VUy8xIG.png" tvg-name="Historia (1080p)" group-title="Entertainment",Historia (1080p)
+https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" tvg-name="Disney Jr. Latin America South" group-title="Animation;Kids",Disney Jr. Latin America South
+http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" tvg-name="Disney Junior (1080i)" group-title="Kids",Disney Junior (1080i)
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg" tvg-name="Disney Junior (576p)" group-title="Kids",Disney Junior (576p)
+https://bbb.exoadash.com/TVD1561/index.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" tvg-name="Disney XD (720p)" group-title="Kids",Disney XD (720p)
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-name="Nickelodeon (1080p)" group-title="Kids",Nickelodeon (1080p)
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-name="Nickelodeon (1080p)" group-title="Kids",Nickelodeon (1080p)
+https://xykt-fix.github.io/iptv/streams/SP57.m3u#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png" tvg-name="Nickelodeon Junior (1080p)" group-title="Kids",Nickelodeon Junior (1080p)
+http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" tvg-name="beIN SPORTS XTRA (1080p)" group-title="Sports",beIN SPORTS XTRA (1080p)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V562tpO.png" tvg-name="beIN Sports XTRA en Espanol (1080p)" group-title="Sports",beIN Sports XTRA en Espanol (1080p)
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" tvg-name="WSCV-DT1" group-title="Undefined",WSCV-DT1
+http://181.114.57.246:4000/play/NnnBAHA2yQc4AG82/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/960px-Telemundo_logo_2018.svg.png" tvg-name="WNJU-DT1" group-title="Undefined",WNJU-DT1
+http://104.238.205.28:9090/278678_.m3u8
+#EXTINF:-1 tvg-id="HallmarkMoviesMore.us@SD",Hallmark Movies & More (1080p) [Geo-blocked]
+https://pb-clwlfvkqpn19r.akamaized.net/Hallmark_Movies_&_More.m3u8
+#EXTINF:-1 tvg-id="",It’s Anime (1080p)
+https://d1isoijd9dbbf7.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="",Pokémon (1080p) [Geo-blocked]
+https://pb-xs4ais85724vy.akamaized.net/Pokeman.m3u8
+#EXTINF:-1 tvg-id="UnsolvedMysteries.us@US",Unsolved Mysteries (720p)
+https://d31z96rdrmwfsp.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="WipeoutXtra.us@SD",Wipeout Xtra (1080p)
+https://djoigjo2g1xzo.cloudfront.net/Wipeout_Xtra.m3u8
+#EXTINF:-1 tvg-id="",Wipe Out (Espanol)
+https://jmp2.uk/plu-5ed6828192e8b3000743ef61.m3u8
+#EXTINF:-1 tvg-id="AnimeVision.es@SD",Anime Vision (1080p)
+https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
+#EXTINF:-1 tvg-id="",Hunter x Hunter
+https://jmp2.uk/plu-65d916a2f7f0af0008b6540d.m3u8
